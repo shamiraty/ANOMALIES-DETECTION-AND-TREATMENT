@@ -1,13 +1,8 @@
 <table>
   <tr>
     <td style="width: 30%;">
-       ![im](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/8e17d28d-b95f-4360-bf1b-d8cc33704b86)
-       ![img2](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/46ba42be-79d4-4d35-b486-58eed6ead84e)
-       ### YouTube
-[Watch the video on YouTube](https://youtu.be/INprKzL98qo)
-
-### Live Demo | Google Colab
-[Live Demo on Google Colab](https://colab.research.google.com/drive/1VRFcMQ-KOizddGppZMeEkJBah4sbsOD8)
+     
+  
 
 
     </td>
