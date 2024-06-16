@@ -1,0 +1,5 @@
+1. conda install pandas
+2. conda install scikit-learn 
+3. conda install scipy 
+4. conda install numpy
+5. conda install plotly
