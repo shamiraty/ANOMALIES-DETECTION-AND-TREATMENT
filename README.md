@@ -2,12 +2,12 @@
   <tr>
     <td style="width: 30%;">
          <img src="https://www.lipsindia.com/blog/wp-content/uploads/2017/06/data-science.png" alt="logo" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
-      <img src="img2.png" alt="img.png" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
+      <img src="[img2.pn](https://www.iteratorshq.com/wp-content/uploads/2020/09/data_cleaning_cycle.jpg)https://www.iteratorshq.com/wp-content/uploads/2020/09/data_cleaning_cycle.jpg" alt="logo" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
     </td>
     <td style="width: 70%;">
-      <h3 style="color: white;">DATA EXPLORATION &amp; VISUALIZATION TECHNIQUES</h3>
-      <h3 style="color: white;">DATA CLEANING</h3>
-      <h3 style="color:white;">ANOMALIES DETECTION AND TREATMENT</h3><hr>   
+      <h1 style="color: white;">DATA EXPLORATION &amp; VISUALIZATION TECHNIQUES</h3>
+      <h1 style="color: white;">DATA CLEANING</h3>
+      <h1 style="color:white;">ANOMALIES DETECTION AND TREATMENT</h3><hr>   
         <table><tr><td style="width: 40%;">
         <h6 style="color:red;">🔆 Applied Domains</h6> 
       <ol style="color:white ;">         
@@ -146,7 +146,13 @@ Invest in training and tools that enhance data analysis capabilities within your
 These references provide a solid foundation for understanding the concepts and methods discussed in the notebook. They offer detailed explanations and examples that can help deepen your knowledge and improve your skills in data exploration, cleaning, and anomaly detection.
 
 ---
+### YouTube
+[Watch the video on YouTube](https://youtu.be/INprKzL98qo)
 
+### Live Demo | Google Colab
+[Live Demo on Google Colab](https://colab.research.google.com/drive/1VRFcMQ-KOizddGppZMeEkJBah4sbsOD8)
+
+---
 # Contact Information
 
 - **WhatsApp**: +255675839840, +255656848274
@@ -155,12 +161,19 @@ These references provide a solid foundation for understanding the concepts and m
 - **PlayStore**: [PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
 - **GitHub**: [GitHub Profile](https://github.com/shamiraty/)
 
-
-
-
-
-
-
+![Untitled 10](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/765164cc-ac56-4f95-98a4-ba64f4ddf604)
+![Untitled 9](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/062432d0-909f-42ee-87cc-dcaf13844f57)
+![Untitled 8](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/855baffe-523e-4dcc-a80d-ae1a145b570d)
+![Untitled 7](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/2f9ba7e6-43ae-4ded-933d-ead8048855b1)
+![Untitled 1](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/f7a5099c-498a-4fce-b18d-aae722f53844)
+![3](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/da99ca92-620e-4289-9a9e-12bf959f91eb)
+![Untitled 6](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/9a071ae6-0d2e-4de3-a248-b7c0aba8722f)
+![1](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/bc149f21-0d73-41ae-b405-926ce4356815)
+![Untitled 5](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/9942feeb-650b-4238-b0e0-d35ddb00e155)
+![Untitled 4](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/4a9e0e47-90ae-4395-9d1d-4201eebf4584)
+![Untitled 3](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/3409df1d-eff6-4bc6-8385-26640bff2158)
+![Untitled 2](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/799d8793-bbb9-4213-906d-1665359bf9b5)
+![2](https://github.com/shamiraty/ANOMALIES-DETECTION-AND-TREATMENT/assets/129072179/b6ea3d4a-0849-4a6e-8b08-84699c0012c0)
 
 
 
