@@ -2,7 +2,7 @@
   <tr>
     <td style="width: 30%;">
          <img src="https://www.lipsindia.com/blog/wp-content/uploads/2017/06/data-science.png" alt="logo" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
-      <img src="[img2.pn](https://www.iteratorshq.com/wp-content/uploads/2020/09/data_cleaning_cycle.jpg)https://www.iteratorshq.com/wp-content/uploads/2020/09/data_cleaning_cycle.jpg" alt="logo" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
+      <img src="https://www.iteratorshq.com/wp-content/uploads/2020/09/data_cleaning_cycle.jpg" alt="logo" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
     </td>
     <td style="width: 70%;">
       <h1 style="color: white;">DATA EXPLORATION &amp; VISUALIZATION TECHNIQUES</h3>
