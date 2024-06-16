@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 30%;">
-         <img src="im.jpg" alt="img.png" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
+         <img src="[im.jpg](https://media.licdn.com/dms/image/D5612AQGhMPbDCGWHXQ/article-cover_image-shrink_600_2000/0/1689950947980?e=2147483647&v=beta&t=ogQVsnCaPMCcJGtCcxAVMKEoJM_sZrpJdgnVYVb-Ucw)" alt="img.png" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
       <img src="img2.png" alt="img.png" style="max-width: 100%; height: auto; border-radius: 5px;border-radius: 1px; box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);">
     </td>
     <td style="width: 70%;">
